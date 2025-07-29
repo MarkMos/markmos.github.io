@@ -1,0 +1,29 @@
+menu:
+# - {name: 'people', url: '/people'}
+- {name: 'about me', url: '/index'}
+- {name: 'publications', url: '/publications'}
+- {name: 'presentations', url: '/presentations'}
+- {name: 'cv', url: '/cv'}
+- {name: 'contact', url: '/contact'}
+
+# people:
+# - {name: 'Primary Investigator', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/primary-investigator.jpg', url: 'primary-investigator'}
+# - {name: 'Lab Technician', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/lab-technician.jpg', url: 'lab-technician'}
+# - {name: 'Graduate Student', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/graduate-student.jpg', url: 'graduate-student'}
+
+presentations:
+- {name: 'Current and Future Probes of Dark Matter Microphysics', url: 'Talk-KASI-Dec2023.pdf', location: "CosKASI Seminar, KASI"}
+- {name: 'Investigating Dark Matter with Gravitational waves and cosmology', url: 'talk_cosmo23.pdf', location: "Cosmo'23, Madrid"}
+- {name: 'Dark matter microphysics with next generation observatories', url: 'presentation-paris-sep-2022.pdf', location: ' ICAP Seminar Series, IAP'}
+- {name: 'Probing Dark matter with next-gen observatories', url: 'Probing-Dark-matter-with-next-gen-observatories.pdf', location: 'Sydney Institute for Astronomy, The University of Sydney'}
+- {name: 'Signatures of dark matter interactions at high and higher redshifts', url: 'cfh2022_Mosbech_Markus.pdf', location: 'Cosmology from Home', video: 'https://youtu.be/-ckbdQx9ot4'}
+
+social:
+- {icon: 'github', link: 'https://github.com/MarkMos'}
+- {icon: 'cloud', link: 'https://bsky.app/profile/mosbech.bsky.social'}
+# - {icon: 'twitter', link: 'https://twitter.com/M_mosbech'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/markus-mosbech/'}
+- {icon: 'google', link: 'https://scholar.google.com/citations?user=i-Cu7FgAAAAJ'}
+
+contacts:
+- {name: 'Markus R. Mosbech', title: 'PostDoc', department: 'TTK @ RWTH & TTP @ KIT', institution: 'RWTH office', institution_address: 'Otto-Blumenthal-Str. 12, 52074 Aachen', email: 'mosbech@physik.rwth-aachen.de', office: 'MBP 116', image: 'assets/img/RWTH.jpg'}

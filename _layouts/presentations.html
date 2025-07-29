@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+{{ content }}
+
+<div class="row g-5 mb-5">
+  <div>
+    <h3 class="fw-bold border-bottom pb-3 mb-5">Selected Presentations</h3>
+    {% for presentation in site.data.settings.presentations %}
+      {% if presentation.url %}
+        <p><a href="{{ site.github.url }}/presentations/{{ presentation.url}}">{{ presentation.name }}</a><br>
+      {% else %}
+        <p>{{ presentation.name }}<br>
+      {% endif %}
+        {{presentation.location}}
+      {% if presentation.video %}
+        <a href="{{presentation.video}}"> (Video)</a>
+      {% endif %}
+      </p>
+    {% endfor %}
+  </div>
+</div>

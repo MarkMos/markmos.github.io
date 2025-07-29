@@ -1,0 +1,17 @@
+featured:
+- {name: 'OLE - Online Learning Emulation in Cosmology', authors: 'S. Gunther, ..., M.R. Mosbech, et al.', url: 'https://arxiv.org/abs/2503.13183'}
+- {name: 'DESI forecast for Dark Matter-Neutrino interactions using EFTofLSS', authors: 'M.R. Mosbech, et al.', url: 'https://arxiv.org/abs/2410.08163'}
+- {name: 'Gravitational-wave event rates as a new probe for dark matter microphysics', authors: ' M.R. Mosbech, A.C. Jenkins, S. Bose, C. Boehm, M. Sakellariadou, Y.Y.Y. Wong', url: 'https://arxiv.org/abs/2207.14126'}
+- {name: 'The full Boltzmann hierarchy for dark matter-massive neutrino interactions', authors: 'M.R. Mosbech, C. Boehm, S. Hannestad, O. Mena, J. Stadler, Y.Y.Y. Wong', url: 'https://arxiv.org/abs/2011.04206'}
+
+index:
+- {name: 'OLE - Online Learning Emulation in Cosmology', authors: 'S. Gunther, ..., M.R. Mosbech, et al.', url: 'https://arxiv.org/abs/2503.13183'}
+- {name: 'Emulating the Lyman-Alpha forest 1D power spectrum from cosmological simulations: New models and constraints from the eBOSS measurement', authors: ' M. Walther, ..., M.R. Mosbech, et al.', url: 'https://arxiv.org/abs/2412.05372'}
+- {name: 'DESI forecast for Dark Matter-Neutrino interactions using EFTofLSS', authors: 'M.R. Mosbech, et al.', url: 'https://arxiv.org/abs/2410.08163'}
+- {name: 'Everything hot everywhere all at once: Neutrinos and hot dark matter as a single effective species', authors: 'A. Upadhye, M.R. Mosbech, G. Pierobon, Y.Y.Y. Wong', url: 'https://arxiv.org/abs/2410.05815'}
+- {name: 'One trick to treat them all: SuperEasy linear response for any hot dark matter in N-body simulations', authors: 'G. Pierobon, M.R. Mosbech, A. Upadhye, Y.Y.Y. Wong', url: 'https://arxiv.org/abs/2410.05816'}
+- {name: 'Hybrid multi-fluid-particle simulations of the cosmic neutrino background', authors: 'J.Z. Chen, M.R. Mosbech, A. Upadhye, Y.Y.Y. Wong', url: 'https://arxiv.org/abs/2210.16012'}
+- {name: 'Gravitational-wave event rates as a new probe for dark matter microphysics', authors: ' M.R. Mosbech, A.C. Jenkins, S. Bose, C. Boehm, M. Sakellariadou, Y.Y.Y. Wong', url: 'https://arxiv.org/abs/2207.14126'}
+- {name: 'Probing dark matter interactions with 21cm observations', authors: 'M. Mosbech, C. Boehm, Y.Y.Y. Wong', url: 'https://arxiv.org/abs/2207.03107'}
+- {name: 'Effects of Hawking evaporation on PBH distributions', authors: 'M.R. Mosbech, Z.S.C. Picker', url: 'https://arxiv.org/abs/2203.05743'}
+- {name: 'The full Boltzmann hierarchy for dark matter-massive neutrino interactions', authors: 'M.R. Mosbech, C. Boehm, S. Hannestad, O. Mena, J. Stadler, Y.Y.Y. Wong', url: 'https://arxiv.org/abs/2011.04206'}
