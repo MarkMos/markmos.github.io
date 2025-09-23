@@ -3,7 +3,7 @@ layout: home
 title: "Home"
 ---
 
-I am a postdoc at RWTH Aachen and KIT in Germany, previously I completed my PhD at The University of Sydney working on cosmology and astroparticle physics.
+I am a postdoc at [RWTH Aachen](https://www.particle-theory.rwth-aachen.de) and [KIT](https://www.ttp.kit.edu/) in Germany, previously I completed my PhD at The University of Sydney working on cosmology and astroparticle physics.
 
 I use cosmology to investigate the nature of dark matter through the use of linear and nonlinear numerical tools. In particular, I have worked on constraining interactions between dark matter and neutrinos, using existing CMB data as well as forecasts for future 21cm observations and gravitational waves.
 

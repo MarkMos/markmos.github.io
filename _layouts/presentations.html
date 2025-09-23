@@ -6,7 +6,11 @@ layout: default
 
 <div class="row g-5 mb-5">
   <div>
-    <h3 class="fw-bold border-bottom pb-3 mb-5">Selected Presentations</h3>
+    <h5 class="fw-bold border-bottom pb-3 mb-5">Selected Presentations</h5>
+    <p>An overview of selected talks I have given in various places, with downloadable slides, 
+      and in some cases video recordings. If any of my work is interesting to you, 
+      I would be happy to present it to your research group, in-person or virtually. Feel free to reach out!</p>
+      <p></p>
     {% for presentation in site.data.settings.presentations %}
       {% if presentation.url %}
         <p><a href="{{ site.github.url }}/presentations/{{ presentation.url}}">{{ presentation.name }}</a><br>

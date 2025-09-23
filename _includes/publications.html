@@ -7,6 +7,7 @@
       {% endfor %}
     {% else %}
     <h3 class="fw-bold border-bottom pb-3 mb-5">Publications</h3>
+        <p>A list of publications I have contributed to.</p>
       {% for item in site.data.publications.index %}
         <p><a href="{{ item.url }}">{{ item.name }}</a>. <br>{{ item.authors }}</p>
       {% endfor %}
