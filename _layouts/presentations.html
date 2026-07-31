@@ -15,8 +15,10 @@ layout: default
         <a href="https://github.com/MarkMos/class_lecture/blob/main/CLASS_lec_2.pdf">Part 2</a>, <a href="https://github.com/MarkMos/class_lecture/tree/main/notebooks">Exercise Notebooks</a><br>
       École d'été Rodolphe Clédassou 2025, Les Karellis </p>
     {% for presentation in site.data.settings.presentations %}
-      {% if presentation.url %}
-        <p><a href="{{ site.github.url }}/presentations/{{ presentation.url}}">{{ presentation.name }}</a><br>
+      {% if presentation.file %}
+        <p><a href="{{ site.github.url }}/presentations/{{ presentation.file}}">{{ presentation.name }}</a><br>
+      {% elsif presentation.url %}
+        <p><a href="{{ presentation.url}}">{{ presentation.name }}</a><br>
       {% else %}
         <p>{{ presentation.name }}<br>
       {% endif %}

@@ -1,10 +1,16 @@
 featured:
+- {name: High resolution Lyman-α forest constraints on dark matter-neutrino scattering, authors: 'M.R. Mosbech, et al.', url: 'https://arxiv.org/abs/2607.15020'}
+- {name: The H₀ world cup. I. Summary of the baseline group stage results, authors: 'N. Schöneberg, ..., M.R. Mosbech, et al.', url: 'https://arxiv.org/abs/2607.13282'}
 - {name: 'OLE - Online Learning Emulation in Cosmology', authors: 'S. Gunther, ..., M.R. Mosbech, et al.', url: 'https://arxiv.org/abs/2503.13183'}
-- {name: 'DESI forecast for Dark Matter-Neutrino interactions using EFTofLSS', authors: 'M.R. Mosbech, et al.', url: 'https://arxiv.org/abs/2410.08163'}
-- {name: 'Gravitational-wave event rates as a new probe for dark matter microphysics', authors: ' M.R. Mosbech, A.C. Jenkins, S. Bose, C. Boehm, M. Sakellariadou, Y.Y.Y. Wong', url: 'https://arxiv.org/abs/2207.14126'}
+# - {name: 'DESI forecast for Dark Matter-Neutrino interactions using EFTofLSS', authors: 'M.R. Mosbech, et al.', url: 'https://arxiv.org/abs/2410.08163'}
+# - {name: 'Gravitational-wave event rates as a new probe for dark matter microphysics', authors: ' M.R. Mosbech, A.C. Jenkins, S. Bose, C. Boehm, M. Sakellariadou, Y.Y.Y. Wong', url: 'https://arxiv.org/abs/2207.14126'}
 - {name: 'The full Boltzmann hierarchy for dark matter-massive neutrino interactions', authors: 'M.R. Mosbech, C. Boehm, S. Hannestad, O. Mena, J. Stadler, Y.Y.Y. Wong', url: 'https://arxiv.org/abs/2011.04206'}
 
 index:
+- {name: High resolution Lyman-α forest constraints on dark matter-neutrino scattering, authors: 'M.R. Mosbech, et al.', url: 'https://arxiv.org/abs/2607.15020'}
+- {name: The H₀ world cup. I. Summary of the baseline group stage results, authors: 'N. Schöneberg, ..., M.R. Mosbech, et al.', url: 'https://arxiv.org/abs/2607.13282'}
+- {name: The H₀ world cup. II. A comprehensive competition between proposed Hubble tension solutions, authors: 'N. Schöneberg, ..., M.R. Mosbech, et al.', url: 'https://arxiv.org/abs/2607.13283'}
+- {name: 'Cosmological constraints on TeV-scale dark matter subcomponents decaying between recombination and reionisation', authors: 'M.R. Mosbech, C. Benso, F. Kahlhoefer', url: 'https://arxiv.org/abs/2604.19198'}
 - {name: 'OLE - Online Learning Emulation in Cosmology', authors: 'S. Gunther, ..., M.R. Mosbech, et al.', url: 'https://arxiv.org/abs/2503.13183'}
 - {name: 'Emulating the Lyman-Alpha forest 1D power spectrum from cosmological simulations: New models and constraints from the eBOSS measurement', authors: ' M. Walther, ..., M.R. Mosbech, et al.', url: 'https://arxiv.org/abs/2412.05372'}
 - {name: 'DESI forecast for Dark Matter-Neutrino interactions using EFTofLSS', authors: 'M.R. Mosbech, et al.', url: 'https://arxiv.org/abs/2410.08163'}

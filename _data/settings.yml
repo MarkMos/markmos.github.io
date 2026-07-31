@@ -12,12 +12,13 @@ menu:
 # - {name: 'Graduate Student', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/graduate-student.jpg', url: 'graduate-student'}
 
 presentations:
-- {name: 'Probing Dark Matter-Neutrino interactions in Cosmology', url: 'DM-Nu_Montpellier_2025.pdf', location: "News from the Dark 10, Montpellier"}
-- {name: 'Current and Future Probes of Dark Matter Microphysics', url: 'Talk-KASI-Dec2023.pdf', location: "CosKASI Seminar, KASI"}
-- {name: 'Investigating Dark Matter with Gravitational waves and cosmology', url: 'talk_cosmo23.pdf', location: "Cosmo'23, Madrid"}
-- {name: 'Dark matter microphysics with next generation observatories', url: 'presentation-paris-sep-2022.pdf', location: ' ICAP Seminar Series, IAP'}
-- {name: 'Probing Dark matter with next-gen observatories', url: 'Probing-Dark-matter-with-next-gen-observatories.pdf', location: 'Sydney Institute for Astronomy, The University of Sydney'}
-- {name: 'Signatures of dark matter interactions at high and higher redshifts', url: 'cfh2022_Mosbech_Markus.pdf', location: 'Cosmology from Home', video: 'https://youtu.be/-ckbdQx9ot4'}
+- {name: 'Cosmological constraints on TeV-scale dark matter subcomponents decaying after recombination', url: 'https://kosmotag26.my.canva.site/', location: "Kosmologietag 2026, Bielefeld University"}
+- {name: 'Probing Dark Matter-Neutrino interactions in Cosmology', file: 'DM-Nu_Montpellier_2025.pdf', location: "News from the Dark 10, Montpellier"}
+- {name: 'Current and Future Probes of Dark Matter Microphysics', file: 'Talk-KASI-Dec2023.pdf', location: "CosKASI Seminar, KASI"}
+- {name: 'Investigating Dark Matter with Gravitational waves and cosmology', file: 'talk_cosmo23.pdf', location: "Cosmo'23, Madrid"}
+- {name: 'Dark matter microphysics with next generation observatories', file: 'presentation-paris-sep-2022.pdf', location: ' ICAP Seminar Series, IAP'}
+- {name: 'Probing Dark matter with next-gen observatories', file: 'Probing-Dark-matter-with-next-gen-observatories.pdf', location: 'Sydney Institute for Astronomy, The University of Sydney'}
+- {name: 'Signatures of dark matter interactions at high and higher redshifts', file: 'cfh2022_Mosbech_Markus.pdf', location: 'Cosmology from Home', video: 'https://youtu.be/-ckbdQx9ot4'}
 
 social:
 - {icon: 'github', link: 'https://github.com/MarkMos'}
