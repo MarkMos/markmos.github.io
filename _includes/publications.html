@@ -6,8 +6,8 @@
         <p><a href="{{ item.url }}">{{ item.name }}</a>. <br>{{ item.authors }}</p>
       {% endfor %}
     {% else %}
-    <h4 class="h4 fw-bold border-bottom border-secondary pb-3 mb-5">Publications</h4>
-        <p>A list of publications I have contributed to.</p>
+    <h3><strong>Publications</strong></h3>
+        <p>A list of publications I have contributed to. For detailed bibliographic information, see <a href="https://inspirehep.net/authors/2050163?ui-citation-summary=true">my inspire-hep page</a>.</p>
       {% for item in site.data.publications.index %}
         <p><a href="{{ item.url }}">{{ item.name }}</a>. <br>{{ item.authors }}</p>
       {% endfor %}

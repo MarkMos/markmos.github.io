@@ -1,6 +1,6 @@
 menu:
 # - {name: 'people', url: '/people'}
-- {name: 'About Me', url: '/index'}
+- {name: 'About Me', url: '/aboutme'}
 - {name: 'Publications', url: '/publications'}
 - {name: 'Presentations', url: '/presentations'}
 - {name: 'CV', url: '/cv'}
@@ -26,6 +26,7 @@ social:
 # - {icon: 'twitter', link: 'https://twitter.com/M_mosbech'}
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/markus-mosbech/'}
 - {icon: 'google', link: 'https://scholar.google.com/citations?user=i-Cu7FgAAAAJ'}
+- {icon: 'orcid', link: 'https://orcid.org/0000-0001-7199-6579'}
 
 contacts:
-- {name: 'Markus R. Mosbech', title: 'PostDoc', department: 'TTK @ RWTH & TTP @ KIT', institution: 'RWTH office', institution_address: 'Otto-Blumenthal-Str. 12, 52074 Aachen', email: 'mosbech@physik.rwth-aachen.de', office: 'MBP 116', image: 'assets/img/RWTH.jpg'}
+- {name: 'Markus R. Mosbech', title: 'Visiting Researcher', department: 'TTK @ RWTH', oldtitle: 'PostDoc', olddepartment: 'TTK @ RWTH & TTP @ KIT', institution: 'RWTH office', institution_address: 'Otto-Blumenthal-Str. 12, 52074 Aachen', email: 'mosbech@physik.rwth-aachen.de', office: 'MBP 116', image: 'assets/img/RWTH.jpg'}
